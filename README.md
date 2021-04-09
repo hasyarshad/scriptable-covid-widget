@@ -9,7 +9,7 @@ Add covid19.js and no-background.js to Scriptable on your device by downloading 
 [1]:./assets/small.jpg "Small Widget"
 
 
-| Stats Widget   |
+| Small Widget   |
 | -------------  |
 | ![alt text][1] |
 
